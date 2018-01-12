@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77ea1435-27db-4abc-9a07-98c540ebfce4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createDist.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createDist.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createDist2.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createDist2.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createFirstPlot.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/EXTRAS/createFirstPlot.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/README.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/README.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch03/classifierStorage.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/classifierStorage.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch03/lenses.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/lenses.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/treePlotter.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch03/trees.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch03/trees.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/create2Normal.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/create2Normal.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/monoDemo.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/EXTRAS/monoDemo.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch04/bayes.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch04/bayes.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plot2D.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plot2D.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plotGD.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plotGD.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plotSDerror.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/plotSDerror.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/sigmoidPlot.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/EXTRAS/sigmoidPlot.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/horseColicTest.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/horseColicTest.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/horseColicTraining.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/horseColicTraining.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/logRegres.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/logRegres.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch05/testSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch05/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/plotRBF.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/plotRBF.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/svmMLiA.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/svmMLiA.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSetRBF.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSetRBF.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSetRBF2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch06/testSetRBF2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch07/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/EXTRAS/README.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch07/adaboost.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/adaboost.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch07/horseColicTest2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/horseColicTest2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch07/horseColicTraining2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch07/horseColicTraining2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/abalone.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/abalone.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/ex0.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/ex0.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/ex1.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/ex1.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/regression.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/regression.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10030.html" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10030.html" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10179.html" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10179.html" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10181.html" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10181.html" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10189.html" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10189.html" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10196.html" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego10196.html" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego8288.html" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch08/setHtml/lego8288.html" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/bikeSpeedVsIq_test.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/bikeSpeedVsIq_test.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex0.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex0.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex00.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex00.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex2test.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/ex2test.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/exp.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/exp.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/exp2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/exp2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/expTest.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/expTest.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/regTrees.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/regTrees.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/sine.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/sine.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch09/treeExplore.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch09/treeExplore.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch10/kMeans.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/kMeans.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch10/places.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/places.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch10/testSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch10/testSet2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch10/testSet2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch11/apriori.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/apriori.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch11/bills20DataSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/bills20DataSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch11/lawAssnRules.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/lawAssnRules.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch11/meaning20.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/meaning20.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch11/recent100bills.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/recent100bills.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch11/recent20bills.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch11/recent20bills.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch12/fpGrowth.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch12/fpGrowth.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig1.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig1.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig2.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig2.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig3.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig3.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig4.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/extras/createFig4.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/pca.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/pca.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/secom.data" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/secom.data" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/testSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch13/testSet3.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch13/testSet3.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch14/0_5.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch14/0_5.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch14/svdRec.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch14/svdRec.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/kickStart.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/kickStart.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMean.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMean.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMeanMapper.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMeanMapper.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMeanReducer.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrMeanReducer.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrSVM.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrSVM.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrSVMkickStart.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/mrSVMkickStart.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/myout.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/myout.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/pegasos.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/pegasos.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/proximalSVM.py" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/proximalSVM.py" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat2.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat2.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat26" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat26" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat27" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmDat27" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmData.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/svmData.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/testSet.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/testSet.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/Ch15/testSet200.txt" afterPath="$PROJECT_DIR$/machinelearninginaction/Ch15/testSet200.txt" />
+      <change beforePath="$PROJECT_DIR$/machinelearninginaction/README.rst" afterPath="$PROJECT_DIR$/machinelearninginaction/README.rst" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
+      <file leaf-file-name="trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kNN/ch03/trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bayes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kNN/ch04/bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-612">
+              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree_plotter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kNN/ch03/tree_plotter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kNN/ch03/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>len</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/machinelearninginaction" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kNN.py" />
+        <option value="$PROJECT_DIR$/../curacloud/compose-haproxy-web/index.py" />
+        <option value="$USER_HOME$/test.txt" />
+        <option value="$PROJECT_DIR$/kNN/kNN.py" />
+        <option value="$PROJECT_DIR$/kNN/ch02/kNNTest.py" />
+        <option value="$PROJECT_DIR$/kNN/ch02/kNN.py" />
+        <option value="$PROJECT_DIR$/kNN/ch03/test.py" />
+        <option value="$PROJECT_DIR$/kNN/ch03/trees.py" />
+        <option value="$PROJECT_DIR$/kNN/ch03/tree_plotter.py" />
+        <option value="$PROJECT_DIR$/kNN/ch04/bayes.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1920" />
+    <option name="y" value="42" />
+    <option name="width" value="1920" />
+    <option name="height" value="2007" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mlia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mlia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mlia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mlia" type="462c0819:PsiDirectoryNode" />
+              <item name="kNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curacloud/DLServer" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kNN/ch02" />
+      <recent name="$PROJECT_DIR$/kNN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kNN/ch02" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mlia" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77ea1435-27db-4abc-9a07-98c540ebfce4" name="Default" comment="" />
+      <created>1512613824257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512613824257</updated>
+      <workItem from="1512613825509" duration="5842000" />
+      <workItem from="1513219341033" duration="5243000" />
+      <workItem from="1513238159130" duration="1379000" />
+      <workItem from="1513306350233" duration="4604000" />
+      <workItem from="1513324866275" duration="4103000" />
+      <workItem from="1513668557987" duration="1808000" />
+      <workItem from="1513679307617" duration="8000" />
+      <workItem from="1513836762329" duration="5563000" />
+      <workItem from="1514254321074" duration="4341000" />
+      <workItem from="1515378330858" duration="4467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37358000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="42" width="1920" height="2007" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="5.2083336E-4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="0" y="0" width="430" height="1807" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/tree_plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2576">
+          <caret line="57" column="64" lean-forward="true" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/tree_plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN.py" />
+    <entry file="file://$PROJECT_DIR$/../curacloud/compose-haproxy-web/index.py" />
+    <entry file="file://$PROJECT_DIR$/../curacloud/compose-haproxy-web/web/index.py" />
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machinelearninginaction/Ch02/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="94" column="57" lean-forward="true" selection-start-line="94" selection-start-column="57" selection-end-line="94" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch02/kNNTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/tree_plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/ch04/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
